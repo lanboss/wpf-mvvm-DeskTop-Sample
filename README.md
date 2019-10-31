@@ -4,11 +4,6 @@
 * 数据库(DB):    Mssql 2012
 * 项目博客介绍(Blog): https://www.cnblogs.com/zh7791/p/9761935.html
 
-
-
-https://github.com/HenJigg/MaterialDesign-WPF-MVVM-Smaple/edit/master/README.md
-https://github.com/HenJigg/MaterialDesign-WPF-MVVM-Smaple/tree/master/ZFS/imgfiles
-
 # 关于开发WPF项目说明：
 该项目包含两个部分
    1. 前端: 当前项目
@@ -26,27 +21,23 @@ github下载后端项目至本地, Debug直接调试运行,即可运行后端服
 # 项目的前端展示效果
 
 ## 登录窗口:
-![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/Images/Login.png)
+![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/blob/master/Images/Login.png)
 
 ## 首页效果:
-![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/Images/Main.png)
+![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/blob/master/Images/Main.png)
 
 ## 皮肤设置：
-![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/Images/Skin.png)
+![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/blob/master/Images/Skin.png)
 
 ## 测试页面：
-![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/Images/TestPage.png)
+![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/blob/master/Images/TestPage.png)
 
 ## 数据列表：
-![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/Images/User.png)
+![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/blob/master/Images/User.png)
 
 ## 关于作者：
-![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/Images/About.png)
+![输入图片说明](https://github.com/HenJigg/wpf-mvvm-DeskTop-Sample/blob/master/Images/About.png)
 
-
-# 前端使用到的技术:
-   UI: Material Design
-   IOC: Autofac
   
 # QQ交流群 : 874752819
 # 博客地址:www.cnblogs.com/zh7791
